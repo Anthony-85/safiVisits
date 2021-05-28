@@ -1,7 +1,7 @@
 @include('layouts.app')
 
 
-<h1><center><strong>Annuaire de profil des Praticiens</strong></h1>
+<h1><center><strong>Annuaire de profil des Praticiens </strong></h1>
 
 
 @forelse($users as $user)
