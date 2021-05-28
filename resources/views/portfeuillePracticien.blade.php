@@ -13,7 +13,7 @@
         <table class="table">
             <thead>
             <tr>
-                <th scope="col">Nom</th>
+                <th scope="col">Nom </th>
                 <th scope="col">Prénom</th>
                 <th scope="col">Profession Médicale</th>
                 <th scope="col">Adresse</th>
